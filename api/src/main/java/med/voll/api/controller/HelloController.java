@@ -10,6 +10,6 @@ public class HelloController {
 
 	@GetMapping
 	public String olaMundo() {
-		return "Olá, mundo! Tudo bem?";
+		return "Olá, mundo! Como você está?";
 	}
 }
